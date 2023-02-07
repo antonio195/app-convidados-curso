@@ -1,2 +1,2 @@
 # app-convidados-curso
-App criado com as aulas do curso Desenvolvimento de Aplicativos Android usando Kotlin
+App criado com as aulas do curso: https://www.udemy.com/course/curso-desenvolvedor-kotlin/
